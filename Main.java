@@ -44,7 +44,7 @@ class Main1 {
     System.out.println("Let's watch " + userName); // Output user input
     Scanner nextObj = new Scanner(System.in);// Create a scanner object
     System.out.println("Friend: What snacks and food should we get?");
-
+ 
     String food = nextObj.nextLine();
     System.out.println("lets eat " + food);
   }

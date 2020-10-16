@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class Main1 {
   public static void main(String[] args) {
     System.out.println("Good morning everyone!");// To begin the idea of the program
     System.out.println("Should I go out to the movies today?");
